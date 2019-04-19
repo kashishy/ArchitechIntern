@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         fab = findViewById(R.id.fab);
-        
+
         dataActivitiew();
         loadingTrending();
         laodingKlook();
@@ -101,8 +101,8 @@ public class MainActivity extends AppCompatActivity {
         viewFlipper.addView(imageView);
         viewFlipper.setFlipInterval(2000);
         viewFlipper.setAutoStart(true);
-        //viewFlipper.setInAnimation(this,R.anim.slide_left);
-        //viewFlipper.setOutAnimation(this,R.anim.slide_out);
+        viewFlipper.setInAnimation(this,R.anim.zoomin);
+        //viewFlipper.setOutAnimation(this,R.anim.zoomout);
 
     }
 
