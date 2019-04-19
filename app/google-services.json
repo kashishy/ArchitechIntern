@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001204487119",
+    "firebase_url": "https://architechintern.firebaseio.com",
+    "project_id": "architechintern",
+    "storage_bucket": "architechintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001204487119:android:17a44f37a8aa4f84",
+        "android_client_info": {
+          "package_name": "com.example.architechintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001204487119-9r3g1au3tr37f266sjqsuh95vb235p1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.architechintern",
+            "certificate_hash": "aaa42131e7bc96f25f4b65735a113cd2da2c3284"
+          }
+        },
+        {
+          "client_id": "1001204487119-jhlvldqq3v13d1eqn3t8763orsl4jb9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0DttKQWJXaIF0H-k8jKYLmALMRhDi1s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001204487119-jhlvldqq3v13d1eqn3t8763orsl4jb9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
